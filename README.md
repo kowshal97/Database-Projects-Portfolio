@@ -18,10 +18,10 @@ This portfolio showcases my major **Database Design & Implementation Projects** 
 
 ---
 
-## 📚 Assignment 1 – Library & College Systems
+## 📚 Library & College Systems
 - Tech: PostgreSQL (RDS), ERD, Logical & Physical Models, SQL
 - Systems Designed: Library Management, College Registration
-- [Repo Link](https://github.com/kowshal97/Lib and college-database)
+- [Repo Link](https://github.com/kowshal97/Database-design-project-)
 
 ---
 
